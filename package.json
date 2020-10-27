@@ -1,0 +1,19 @@
+{
+  "name": "tunersbay-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FsRiachos/tunersbay-server.git"
+  },
+  "author": "fsriachos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FsRiachos/tunersbay-server/issues"
+  },
+  "homepage": "https://github.com/FsRiachos/tunersbay-server#readme"
+}
